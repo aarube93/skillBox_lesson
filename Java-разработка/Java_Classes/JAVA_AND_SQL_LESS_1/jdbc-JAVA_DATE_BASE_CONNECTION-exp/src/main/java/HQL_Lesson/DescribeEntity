@@ -1,0 +1,181 @@
+Связанные сущности в Hibernate
+Статья является продолжением описания примера использования Sequence в Hibernate, в которой была рассмотрена только одна
+ сущность и представлено описание сессии Session. В данной статье с использованием практического примера рассмотрим
+ вопрос определения связей между сущностями.
+
+Примечание : чтобы не вынуждать Вас обращаться к начальной статье, часть информации здесь будет повторена.
+
+Классы в Java могут не только наследоваться друг от друга, но и включать в себя в качестве полей другие классы или
+коллекции классов. В столбцах таблиц БД нельзя хранить сложные составные типы и коллекции таких типов
+(за некоторыми исключениями). Это не позволяет сохранять подобный объект в одну таблицу. Но можно сохранять каждый класс
+ в свою собственную таблицу, определив необходимые связи между ними. C описания связей между объектами и начнем.
+
+Определение связей между сущностями
+Для определения связей между сущностями Hibernate использует аннотации @OneToOne, @OneToMany, @ManyToOne, @ManyToMany.
+
+@OneToOne
+Рассмотрим описание аннотации на примере, что каждый гражданин может иметь только один паспорт. И у каждого паспорта
+может быть только один владелец. Такая связь двух объектов в Hibernate определяется как @OneToOne (один-к-одному).
+В следующем листинге представлено описание двух сущностей Person (гражданин) и Password (паспорт). Лишние строки,
+не связанные с аннотацией @OneToOne, не включены в описания сущностей.
+
+@Entity
+@Table (name="users")
+public class Person
+{
+    private String name;
+
+    @OneToOne (optional=false, cascade=CascadeType.ALL)
+    @JoinColumn (name="passport_id")
+    private Passport passport;
+}
+
+@Entity
+@Table (name="passports")
+public class Passport
+{
+    private String series;
+    private String number;
+
+    @OneToOne (optional=false, mappedBy="passport")
+    private Person owner;
+}
+Для связи один к одному в обоих классах к соответствующим полям добавляется аннотация @OneToOne.
+Параметр optional говорит JPA, является ли значение в этом поле обязательным или нет.Связанное поле в User объявлено с
+помощью аннотации @JoinColumn, параметр name которой обозначает поле в БД для создания связи. Для того,
+чтобы объявить сторону, которая не несет ответственности за отношения, используется атрибут mappedBy в сущности Passport.
+ Он ссылается на имя свойства связи (passport) на стороне владельца.
+
+Со стороны владельца к аннотации @OneToOne добавляется параметр cascade. В однонаправленных отношениях одна из сторон
+(и только одна) должна быть владельцем и нести ответственность за обновление связанных полей. В этом случае владельцем
+выступает сущность User. Каскадирование позволяет указать JPA, что необходимо «сделать со связанным объектом при выполнении
+операции с владельцем». То есть, когда удаляется Person из базы, JPA самостоятельно определит наличие у него паспорта
+и удалит вначале паспорт, потом гражданина.
+
+Связь в БД между таблицами users и passports осуществляется посредством поля passport_id в таблице users.
+
+@OneToMany и @ManyToOne
+Аннотации @OneToMany (один-ко-многим) и @ManyToOne (многие-к-одному) рассмотрим на примере гражданина и его места проживания.
+Гражданин имеет один основной адрес проживания, но по одному адресу могут проживать несколько человек.
+В следующем листинге представим эти сущности (лишние поля, не связанные с аннотациями, не отображаются) :
+
+@Entity
+@Table (name="users")
+public class Person
+{
+    private String name;
+
+    @OneToOne (optional=false, cascade=CascadeType.ALL)
+    @JoinColumn (name="passport_id")
+    private Passport passport;
+
+    @ManyToOne (optional=false, cascade=CascadeType.ALL)
+    @JoinColumn (name="person_id")
+    private Address address;
+}
+
+@Entity
+public class Address
+{
+    private String city;
+    private String street;
+    private String building;
+
+    @OneToMany (mappedBy="address", fetch=FetchType.EAGER)
+    private Collection<Person> tenants;
+}
+
+Владельцем в этом примере также будет класс Person, который имеет поле address, связанное с соответствующим объектом.
+Поскольку адрес у гражданина только один, то используется аннотация @ManyToOne. Аннотацией @JoinColumn определяется
+поле связи в таблице БД. Таким образом, параметры этих аннотаций несут такую же смысловую нагрузку, что и у связи @OneToOne.
+
+А вот у владеемого объекта на этот раз всё иначе. Поскольку по одному адресу может проживать несколько жильцов, то поле
+tenants представлено коллекцией, которая имеет аннотацию @OneToMany. Параметр mappedBy также указывает на поле в классе
+владельца. Параметр fetch=FetchType.EAGER говорит о том, что при загрузке владеемого объекта необходимо сразу загрузить
+и коллекцию владельцев.
+
+Для чтения связанных объектов из БД используются следующие стратегии загрузок (fetch) : EAGER и LAZY. В первом случае
+объекты коллекции сразу загружаются в память, во втором случае — только при обращении к ним. Оба этих подхода имеют
+достоинства и недостатки.
+
+В случае FetchType.EAGER в памяти будут находиться все загруженные объекты, даже если нужен только один объект из десятка
+(сотен/тысяч). При использовании данной стратегии необходимо быть внимательным, поскольку при загрузке какого-нибудь
+корневого объекта, который связан со всеми остальными объектами и коллекциями, можно случайно попытаться загрузить в
+память и всю базу.
+
+Согласно стратегии FetchType.LAZY связанные объекты загружаются только по мере необходимости, т.е. при обращении.
+Но при этом требуется, чтобы соединение с базой (или транзакция) сохранялись. Если быть точно, то требуется, чтобы объект
+был attached. Поэтому для работы с lazy объектами тратится больше ресурсов на поддержку соединений.
+
+@ManyToMany
+Примером ассоциации @ManyToMany (многие-ко-многим) могут быть отношения студентов и ВУЗов. В одном институте может быть
+много студентов, студент может учиться в нескольких ВУЗах. Рассмотрим с начала таблицы БД :
+
+create table student (
+  id     integer not null,
+  name   varchar(255) default null,
+  CONSTRAINT PK_STUDENT_ID PRIMARY KEY (id)
+);
+
+create table university (
+  id     integer not null,
+  name   varchar(255) default null,
+  CONSTRAINT PK_UNIVERSITY_ID PRIMARY KEY (id)
+);
+
+create table student_university (
+  student_id     integer not null,
+  university_id  integer not null,
+  CONSTRAINT FK_STUDENT_ID FOREIGN KEY (student_id)
+      REFERENCES student (id),
+  CONSTRAINT FK_UNIVERSITY_ID FOREIGN KEY (university_id)
+      REFERENCES university (id)
+);
+Для определения связи @ManyToMany в примере потребуется три таблицы : таблица студентов students, таблица ВУЗов
+university и таблица связей student_university, в которой будут связаны студенты и ВУЗы. Кроме этого в таблице
+student_university определены внешние ключи (FOREIGN KEY), предупреждающие появление непрошенных записей при
+отсутствии родительских.
+
+Теперь можно представить описание сущностей :
+
+@Entity
+public class Student
+{
+    @Id
+    private long id;
+
+        private String name;
+
+    @ManyToMany
+    @JoinTable (name="student_university",
+       joinColumns=@JoinColumn (name="student_id"),
+       inverseJoinColumns=@JoinColumn(name="university_id"))
+    private List<University> universities;
+
+    // set/get не представлены
+}
+
+@Entity
+public class University
+{
+    @Id
+    private long id;
+
+    @Column
+    private String name;
+
+    @ManyToMany
+    @JoinTable(name="student_university",
+       joinColumns=@JoinColumn(name="university_id"),
+       inverseJoinColumns=@JoinColumn(name="student_id"))
+    private List<Student> students;
+
+    // set/get не представлены
+}
+Список институтов в сущности Student аннотирован с помощью @ManyToMany. Далее следует аннотация @JoinTable, которая
+определяет таблицу и поля для связи. Параметр name указывает название таблицы (student_university). Параметр joinColumns
+ указывает на поле, которое используется для прямой связи (идентификатор student_id). Параметр inverseJoinColumns указывает
+ на поле, которое используется для обратной связи (идентификатор university_id). Для указания столбцов связи из таблицы
+ используется аннотация @JoinColumn.
+
+Сущность университета University описана "зеркально".

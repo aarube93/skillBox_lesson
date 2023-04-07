@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c857ffb6-7710-423a-93fb-ac3799b3f5c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../8 Дата и время/out/production/TimeAndDate/EqualsDateAndTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8 Дата и время/out/production/TimeAndDate/TimeAndDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exceptions_debugging_testing_and_logging/Exceptions_debugging_testing_and_logging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exceptions_debugging_testing_and_logging/src/OccurrenceOfExceptions/Occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exceptions_debugging_testing_and_logging/src/consoleCustomerList/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exceptions_debugging_testing_and_logging/src/consoleCustomerList/CustomerStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exceptions_debugging_testing_and_logging/src/consoleCustomerList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exceptions_debugging_testing_and_logging/src/stackOverflowError_example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Features_OOP_in_JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/src/Find_Employee_With_Highest_Salary/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/src/Find_Employee_With_Highest_Salary/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/src/Find_employee_with_Max_Salary/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/src/Find_employee_with_Max_Salary/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/src/exercise_1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/Sort_test_project/src/exercise_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/Lambda_expressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/data/staff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/data/staff_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Annotations_And_Lombok/Employee_for_lombok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Annotations_And_Lombok/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Generics/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Generics/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Generics/LRU_Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Lambda_expressions/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Lambda_expressions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Stream_API_Vebinar_Po_Java/a_little_about_Optional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Stream_API_Vebinar_Po_Java/intermediateStreamOperators_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Stream_API_Vebinar_Po_Java/terminalStreamOperators_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Stream_API_Vebinar_Po_Java/textFormatter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Stream_API_Vebinar_Po_Java/textFormatter/TextFormatAfter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Stream_API_Vebinar_Po_Java/textFormatter/TextFormatBefore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Stream_API_Vebinar_Po_Java/toCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Stream_API_Vebinar_Po_Java/toMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/Stream_API_Vebinar_Po_Java/webinar_StreamAPI_Shibkov_170921.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/WorkWithJSONParser/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/method_forEach/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/reduce_function/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/ways_to_get_Streams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/features_OOP/src/указатели_на_методы/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Features_OOP_in_JAVA/lib/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FolderSizeMeter/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FolderSizeMeter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FolderSizeMeter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FolderSizeMeter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FolderSizeMeter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FolderSizeMeter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FolderSizeMeter/FolderSizeMeter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FolderSizeMeter/out/production/FolderSizeMeter/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FolderSizeMeter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_File/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_File/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_File/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_File/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_File/class_File.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_File/src/ClassFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/ChristmasCard/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/ChristmasCard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/ChristmasCard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/ChristmasCard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/ChristmasCard/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/ChristmasCard/ChristmasCard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/ChristmasCard/out/production/ChristmasCard/NewYearGiftGard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/ChristmasCard/src/card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/EmployeeParser/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/Forest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/src/Forest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/src/com/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/src/com/animals/EatingAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/src/com/animals/meat_eating/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/src/com/animals/plant_eating/Zebra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/src/com/cage/Ring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/Forest/src/com/grassland/Grassland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/metanit_com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/src/bankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/src/exitCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/src/iterations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/src/multiplication_table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../metanit_com/metanit_com/src/note_about_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/.idea/libraries/jsoup_1_15_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/data/Sherlock.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/data/code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/data/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/data/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/readAndWriteFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/src/fileAndFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/src/inPutStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/src/inputFileFromStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/src/parsingHTML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/src/readFileFromBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/src/readFileFromfFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../readAndWriteFiles/src/writeToFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9 Строки/String_Lesson1/src/OutputTypicalPlacesInStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9 Строки/String_Lesson1/src/OutputTypicalPlacesInStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9 Строки/String_Lesson1/src/RegularExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9 Строки/String_Lesson1/src/RegularExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.2 Строки, конкатенация и сравнение и преобразование чисел в строки и обратно/transformationString/src/StringToNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch firstLesson/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch firstLesson/._out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch firstLesson/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch firstLesson/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch firstLesson/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_class_inheritance/out/production/Java_class_inheritance/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_class_inheritance/out/production/Java_class_inheritance/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_class_inheritance/out/production/Java_class_inheritance/ElectricBus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_class_inheritance/out/production/Java_class_inheritance/ElectricBus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_class_inheritance/out/production/Java_class_inheritance/JavaClassInheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_class_inheritance/out/production/Java_class_inheritance/JavaClassInheritance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_class_inheritance/src/JavaClassInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_class_inheritance/src/JavaClassInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_class_inheritance/src/ObjectLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_class_inheritance/src/ObjectLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_class_inheritance/src/University/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_class_inheritance/src/University/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_class_inheritance/src/University/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_class_inheritance/src/University/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_class_inheritance/src/inheritance_lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_class_inheritance/src/inheritance_lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_class_inheritance/src/modificeyAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_class_inheritance/src/modificeyAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Колллекции/src/TreeSetMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Колллекции/src/TreeSetMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Колллекции/src/Use_HashSet_And_TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Колллекции/src/Use_HashSet_And_TreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Колллекции/src/lesson_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Колллекции/src/lesson_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Колллекции/src/objectOfClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Колллекции/src/objectOfClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Листы и списки/src/ArrayListFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Листы и списки/src/ArrayListFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Листы и списки/src/HabrNoteArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Листы и списки/src/HabrNoteArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Листы и списки/src/LessonArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Листы и списки/src/LessonArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Массивы/src/ArrayWithArrayFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Массивы/src/ArrayWithArrayFilling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Массивы/src/CreateMassiveAndFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Массивы/src/CreateMassiveAndFilling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Массивы/src/MassiveWithMassive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Массивы/src/MassiveWithMassive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Массивы/src/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Массивы/src/Notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Массивы/src/reversePrintEnumerationSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Массивы/src/reversePrintEnumerationSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Массивы/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Массивы/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_10_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__info_picocli_picocli_4_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_11_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_javassist_javassist_3_28_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_reflections_reflections_0_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_xmlresolver_xmlresolver_4_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/libraries/Maven__org_xmlresolver_xmlresolver_data_4_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/.idea/Особенности_ООП_в_Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/._checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/._data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/._pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/LambdaExpressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/data/sortedStaff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/data/staffList.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/src/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/src/main/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/src/main/java/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/src/test/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/src/test/java/TestSortBySalaryAndAlphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/target/classes/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/AdvancedOOPFeatures_1/target/test-classes/TestSortBySalaryAndAlphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/Features_of_PLO_in_Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/data/staff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/out/production/Features_of_PLO_in_Java/LambdaExpressions_Lesson1/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/out/production/Features_of_PLO_in_Java/LambdaExpressions_Lesson1/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/out/production/Features_of_PLO_in_Java/LambdaExpressions_Lesson1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/src/LambdaExpressions_Lesson1/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Особенности_ООП_в_Java/Features_of_PLO_in_Java/src/LambdaExpressions_Lesson1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/.idea/.disko1.disko1.disko1workspace.xml.2829.ddwnld.2829.ddwnld.2829.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/ElectricDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/ElectricDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/Notice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/Notice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/SmartHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/SmartHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/WhatIsDifferent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../абстракные_классы_и_полиморфизм/src/WhatIsDifferent.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KTENnftx0LjHSRINwjYxHJKe6z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="ImagesDownloader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c857ffb6-7710-423a-93fb-ac3799b3f5c3" name="Changes" comment="" />
+      <created>1673990139986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673990139986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
