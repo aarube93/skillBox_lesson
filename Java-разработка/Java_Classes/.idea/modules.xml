@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Callable/Callable.iml" filepath="$PROJECT_DIR$/Multithreading/Callable/Callable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Числа_и_даты/CombingAccuracy/CombingAccuracy.iml" filepath="$PROJECT_DIR$/Числа_и_даты/CombingAccuracy/CombingAccuracy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metanit_com/EmployeeParser/EmployeeParser.iml" filepath="$PROJECT_DIR$/metanit_com/EmployeeParser/EmployeeParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class_File_lesson/ImagesDownloader/ImagesDownloader.iml" filepath="$PROJECT_DIR$/class_File_lesson/ImagesDownloader/ImagesDownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Classes.iml" filepath="$PROJECT_DIR$/.idea/Java_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/hibernate_refdoc_Tutorial/Practical_work_2_16_13.iml" filepath="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/hibernate_refdoc_Tutorial/Practical_work_2_16_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Transactions/Transactions.iml" filepath="$PROJECT_DIR$/Multithreading/Transactions/Transactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metanit_com/Weatherer/demo.iml" filepath="$PROJECT_DIR$/metanit_com/Weatherer/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/jdbc-JAVA_DATE_BASE_CONNECTION-exp.iml" filepath="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/jdbc-JAVA_DATE_BASE_CONNECTION-exp.iml" />
+    </modules>
+  </component>
+</project>

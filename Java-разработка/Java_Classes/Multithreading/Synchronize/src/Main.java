@@ -9,7 +9,6 @@ public class Main {
     // фрагмент выполнялся только в одном потоке.
 
     private static final ArrayList<Double> numbers = new ArrayList<>();
-
     public static void main(String[] args) {
         ArrayList<Thread> threads = new ArrayList<>();
         for (int i = 0; i < 10; i++) {

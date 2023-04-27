@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/metanit_com/EmployeeParser/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/class_File_lesson/ImagesDownloader/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Transactions" />
+        <module name="Practical_work_2_16_13" />
+        <module name="jdbc-JAVA_DATE_BASE_CONNECTION-exp" />
+        <module name="CombingAccuracy" />
+        <module name="ImagesDownloader" />
+        <module name="EmployeeParser" />
+        <module name="demo" />
+        <module name="Callable" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Callable" target="19" />
+      <module name="CombingAccuracy" target="19" />
+      <module name="demo" target="17" />
+      <module name="EmployeeParser" target="1.5" />
+      <module name="ImagesDownloader" target="19" />
+      <module name="jdbc-JAVA_DATE_BASE_CONNECTION-exp" target="19" />
+      <module name="Practical_work_2_16_13" target="19" />
+      <module name="Transactions" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

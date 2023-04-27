@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68509048-4d86-49c5-bd26-8f19350c9321" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Synchronize/src/.disko1Main.java.4834.ddwnld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/src/.disko1.disko1.disko1.disko1.disko1.disko1.disko1Main.java.28432.ddwnld.28432.ddwnld.28432.ddwnld.28432.ddwnld.28432.ddwnld.28432.ddwnld.28432.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/src/.disko1.disko1.disko1.disko1.disko1.disko1ValueStorage.java.28449.ddwnld.28449.ddwnld.28449.ddwnld.28449.ddwnld.28449.ddwnld.28449.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deadlock/src/.disko1.disko1.disko1.disko1.disko1.disko1.disko1Main.java.28909.ddwnld.28909.ddwnld.28909.ddwnld.28909.ddwnld.28909.ddwnld.28909.ddwnld.28909.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deadlock/src/.disko1Friend.java.28930.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Synchronize/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Synchronize/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Volatile/src/.disko1.disko1.disko1.disko1.disko1.disko1.disko1Main.java.28591.ddwnld.28591.ddwnld.28591.ddwnld.28591.ddwnld.28591.ddwnld.28591.ddwnld.28591.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Volatile/src/.disko1.disko1.disko1.disko1.disko1.disko1.disko1Task.java.28605.ddwnld.28605.ddwnld.28605.ddwnld.28605.ddwnld.28605.ddwnld.28605.ddwnld.28605.ddwnld" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2OHKgPsTcIXYTIbOpoU0P8QBWcf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68509048-4d86-49c5-bd26-8f19350c9321" name="Changes" comment="" />
+      <created>1681212178960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681212178960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

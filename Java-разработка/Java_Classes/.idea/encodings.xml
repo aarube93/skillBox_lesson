@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/hibernate_refdoc_Tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/hibernate_refdoc_Tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Multithreading/Callable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Multithreading/Callable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Multithreading/Transactions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Multithreading/Transactions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class_File_lesson/ImagesDownloader/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class_File_lesson/ImagesDownloader/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metanit_com/Weatherer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metanit_com/Weatherer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Числа_и_даты/CombingAccuracy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Числа_и_даты/CombingAccuracy/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

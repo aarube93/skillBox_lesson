@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 public class readFileFromBufferedReader {
     private static StringBuilder builder = new StringBuilder();
     private static String path = "data/Sherlock.txt";
-    private static String path1 = "/Users/rube/Documents/codes/warInRussia/data/list_of_expired_passports.csv";
+    private static String path1 = "/Users/rube/Documents/codes/data/list_of_expired_passports.csv";
 
     public static void main(String[] args) {
         try {

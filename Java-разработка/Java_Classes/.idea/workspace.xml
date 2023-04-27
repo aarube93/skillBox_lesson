@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="299a93af-f042-4778-b437-a0424346fec6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java_Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_21_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_6_0_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_1_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_15_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_17_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_17_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_17_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_17_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Callable/Callable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Callable/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Callable/src/main/java/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Callable/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Callable/src/main/java/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Callable/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Transactions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Transactions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Transactions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Transactions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Transactions/Transactions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Transactions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/Transactions/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/data/names.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_File_lesson/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_File_lesson/.idea/class_File_lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_File_lesson/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_File_lesson/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_File_lesson/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_File_lesson/.idea/libraries/Maven__org_jsoup_jsoup_1_15_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_File_lesson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_File_lesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_File_lesson/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.disko1.DS_Store.27160.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9 Строки/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/OccurrenceOfExceptions/Occurrence.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/OccurrenceOfExceptions/Occurrence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/OccurrenceOfExceptions/OccurrencePublicApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/OccurrenceOfExceptions/OccurrencePublicApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/consoleCustomerList/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/consoleCustomerList/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/consoleCustomerList/CustomerStorage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/consoleCustomerList/CustomerStorage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/consoleCustomerList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/consoleCustomerList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/stackOverflowError_example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/out/production/Exceptions_debugging_testing_and_logging/stackOverflowError_example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/src/OccurrenceOfExceptions/Occurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/src/OccurrenceOfExceptions/Occurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/src/consoleCustomerList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions_debugging_testing_and_logging/src/consoleCustomerList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/hibernate_refdoc_Tutorial/.disko1.disko1.disko1.disko1pom.xml.33270.ddwnld.33270.ddwnld.33270.ddwnld.33270.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/hibernate_refdoc_Tutorial/src/main/java/.disko1.disko1Event.java.33317.ddwnld.33317.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/.idea/inspectionProfiles/.disko1Project_Default.xml.4289.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/.idea/inspectionProfiles/.disko1Project_Default.xml.4531.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/src/main/java/.disko1.disko1.disko1JDBCAndHibernate.java.4574.ddwnld.4574.ddwnld.4574.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/src/main/java/Courses/.disko1.disko1Teacher.java.4579.ddwnld.4579.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/src/main/java/HQL_Lesson/.disko1.disko1HQL.java.4582.ddwnld.4582.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Multithreading/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/Concurrency/src/.disko1.disko1.disko1.disko1.disko1.disko1.disko1Main.java.28432.ddwnld.28432.ddwnld.28432.ddwnld.28432.ddwnld.28432.ddwnld.28432.ddwnld.28432.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/Concurrency/src/.disko1.disko1.disko1.disko1.disko1.disko1ValueStorage.java.28449.ddwnld.28449.ddwnld.28449.ddwnld.28449.ddwnld.28449.ddwnld.28449.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/Deadlock/src/.disko1.disko1.disko1.disko1.disko1.disko1.disko1Main.java.28909.ddwnld.28909.ddwnld.28909.ddwnld.28909.ddwnld.28909.ddwnld.28909.ddwnld.28909.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/Deadlock/src/.disko1Friend.java.28930.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/Synchronize/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Multithreading/Synchronize/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/Volatile/src/.disko1.disko1.disko1.disko1.disko1.disko1.disko1Main.java.28591.ddwnld.28591.ddwnld.28591.ddwnld.28591.ddwnld.28591.ddwnld.28591.ddwnld.28591.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/Volatile/src/.disko1.disko1.disko1.disko1.disko1.disko1.disko1Task.java.28605.ddwnld.28605.ddwnld.28605.ddwnld.28605.ddwnld.28605.ddwnld.28605.ddwnld.28605.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/WaitAndNotify/src/.disko1.disko1.disko1.disko1.disko1.disko1Consumer.java.28817.ddwnld.28817.ddwnld.28817.ddwnld.28817.ddwnld.28817.ddwnld.28817.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/WaitAndNotify/src/.disko1.disko1.disko1.disko1.disko1.disko1Main.java.28778.ddwnld.28778.ddwnld.28778.ddwnld.28778.ddwnld.28778.ddwnld.28778.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/WaitAndNotify/src/.disko1.disko1.disko1.disko1.disko1.disko1Parking.java.28797.ddwnld.28797.ddwnld.28797.ddwnld.28797.ddwnld.28797.ddwnld.28797.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/WaitAndNotify/src/.disko1.disko1Producer.java.28813.ddwnld.28813.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_File_lesson/15.8 Задание 1. Программа, скачивающая все изображения с сайта.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_File_lesson/15.8 Рекомендации. Программа, скачивающая все изображения с сайта.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metanit_com/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metanit_com/ChristmasCard/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metanit_com/Forest/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readAndWriteFiles/src/readFileFromBufferedReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/readAndWriteFiles/src/readFileFromBufferedReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Числа_и_даты/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyProject/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyProject/BD_new_toDoList/.disko1.disko1pom.xml.35644.ddwnld.35644.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyProject/BD_new_toDoList/src/main/java/.disko1.disko1.disko1.disko1.disko1Main.java.35667.ddwnld.35667.ddwnld.35667.ddwnld.35667.ddwnld.35667.ddwnld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyProject/BD_new_toDoList/src/main/java/.disko1TodoList.java.35669.ddwnld" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ORdaVIm8tEIXIXmMYbQLBOVYxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/rube/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/9533580733@mail.ru-4033352431678119016/Проекты/skillBox/Java-разработка/Java_Classes"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="299a93af-f042-4778-b437-a0424346fec6" name="Changes" comment="" />
+      <created>1681527392485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681527392485</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

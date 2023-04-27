@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/metanit_com/Weatherer/pom.xml" />
+        <option value="$PROJECT_DIR$/metanit_com/EmployeeParser/pom.xml" />
+        <option value="$PROJECT_DIR$/Числа_и_даты/CombingAccuracy/pom.xml" />
+        <option value="$PROJECT_DIR$/Multithreading/Callable/pom.xml" />
+        <option value="$PROJECT_DIR$/Multithreading/Transactions/pom.xml" />
+        <option value="$PROJECT_DIR$/class_File_lesson/ImagesDownloader/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/hibernate_refdoc_Tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA_AND_SQL_LESS_1/jdbc-JAVA_DATE_BASE_CONNECTION-exp/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK" />
+</project>
